@@ -2,7 +2,7 @@
 This space is for organizing the MATLAB codes I used while working on my graduation project. If you wanna see my thesis, you can click and see my thesis pdf file. 
 
 <Project Overview: V2X Congestion Control Study>
-1. Background & Objectives
+- Background & Objectives
 
 Context: With the advancement of Autonomous Driving, ensuring reliable V2X (Vehicle-to-Everything) communication is critical for road safety.
 
@@ -10,7 +10,7 @@ Problem Definition: Traditional congestion control lacks adaptability in dynamic
 
 Goal: To evaluate the generalization performance of the reinforcement learning model when moving from simple highway scenarios to complex urban intersections.
 
-2. Methodology
+-Methodology
 
 Algorithm: Developed a DQN-based Deep Reinforcement Learning model with four distinct reward structures (CBR-based, CBR+PDR, Hybrid, and Target-PDR) to find the optimal control policy.
 
@@ -20,7 +20,7 @@ Testing: Evaluated the model in a complex crossroad environment modeled after Ja
 
 Metrics: Measured Packet Delivery Ratio (PDR) and Channel Busy Ratio (CBR) to assess communication efficiency.
 
-3. Research Results
+- Research Results
 
 Key Finding: While the DQN model performed consistently in highway environments, it faced significant generalization challenges in urban intersections due to rapid vehicle density fluctuations.
 
