@@ -30,6 +30,7 @@ Conclusion: The study highlights the necessity of environment-aware training and
 
 
 (References)
+
 1)Sepulcre, M., Mittag, J., Santi, P., Hartenstein, H., & Gozalvez, J. (2011). Congestion and awareness control in cooperative vehicular systems. Proceedings of the IEEE, 99(7), 1260-1279
 
 2)Autolitano, A., Reineri, M., Scopigno, R. M., Campolo, C., & Molinaro, A. (2014, November). Understanding the channel busy ratio metrics for decentralized congestion control in VANETs. In 2014 International Conference on Connected Vehicles and Expo (ICCVE) (pp. 717-722). IEEE.
