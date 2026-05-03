@@ -14,7 +14,7 @@ Goal: To evaluate the generalization performance of the reinforcement learning m
 
 Algorithm: Developed a DQN-based Deep Reinforcement Learning model with four distinct reward structures (CBR-based, CBR+PDR, Hybrid, and Target-PDR) to find the optimal control policy.
 
-Data & Simulation: * Training: Used real-world highway traffic data from Olympic-Daero (PM peak hours).
+Data & Simulation:  Training: Used real-world highway traffic data from Olympic-Daero (PM peak hours).
 
 Testing: Evaluated the model in a complex crossroad environment modeled after Jangji-daero.
 
