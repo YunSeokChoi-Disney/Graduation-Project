@@ -54,3 +54,6 @@ Conclusion: The study highlights the necessity of environment-aware training and
 11)Mnih, V., Kavukcuoglu, K., Silver, D., Graves, A., Antonoglou, I., Wierstra, D., & Riedmiller, M. (2013). Playing atari with deep reinforcement learning. arXiv preprint arXiv:1312.5602.
  
 12)Liu, M., Quan, W., Yu, C., Zhang, X., & Gao, D. (2021, September). Deep reinforcement learning based adaptive transmission control in vehicular networks. In 2021 IEEE 94th Vehicular Technology Conference (VTC2021-Fall) (pp. 1-5). IEEE.
+
+
+[종합설계_포스터발표_2019048440_최윤석.pdf](https://github.com/user-attachments/files/27396365/_._2019048440_.pdf)
